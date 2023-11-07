@@ -1,9 +1,9 @@
 # EBAC_Ciencia_de_dados
-Esse repositório é meu portfólio de atividades do curso de Cientista de Dados da EBAC :)
+Esse repositório é meu portfólio de atividades do curso de Cientista de Dados da EBAC 
 
 Status do Curso: 
 
-🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ loading...52%
+🟩🟩🟩🟩🟩🟩:orange_square:⬛⬛⬛ loading...63%
 
 - [x] Python: Variáveis & Tipos de Dados
 - [x] Python: Estruturas de Dados
@@ -32,8 +32,8 @@ Status do Curso:
 - [ ] TdD IV - Pandas avançado
 - [ ] Árvores II (Parte II: árvore de classificação)
 - [ ] Regressão Logística I
-- [ ] Streamlit II
-- [ ] Markdown / Terminal
+- [x] Streamlit II
+- [x] Markdown / Terminal
 - [ ] TdD V - SQL
 - [ ] Descritiva III - Gráficos interativos
 - [ ] Combinação de modelos I
